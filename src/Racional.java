@@ -1,3 +1,9 @@
+/* Rodrigo Valladares Santana L1 
+ * Programación de Aplicaciones Interactivas Práctica 3
+ * 
+ * Clase que representa números racionales y permite realizar operaciones con ellos.
+ * 
+ * */
 
 public class Racional {
 	
